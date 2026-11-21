@@ -13,6 +13,36 @@ path = "src/program00/main.rs"
 test = false
 
 [[bin]]
+name = "program01"
+path = "src/program01/main.rs"
+test = false
+
+[[bin]]
+name = "program02"
+path = "src/program02/main.rs"
+test = false
+
+[[bin]]
+name = "program03"
+path = "src/program03/main.rs"
+test = false
+
+[[bin]]
+name = "program04"
+path = "src/program04/main.rs"
+test = false
+
+[[bin]]
+name = "program05"
+path = "src/program05/main.rs"
+test = false
+
+[[bin]]
+name = "program06"
+path = "src/program06/main.rs"
+test = false
+
+[[bin]]
 name = "generateIOTest"
 path = "tests/common/generateIOTest.rs"
 test = false
