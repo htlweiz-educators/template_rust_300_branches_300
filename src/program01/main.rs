@@ -5,7 +5,7 @@ const MSG_ERR_PARSING_FAILED: &str = "Error: Parsing failed!";
 const MSG_ERR_FLUSH_FAILED: &str = "Error: Flushing failed!";
 
 const MSG_PROMPT_RECT_A: &str = "Please input parameters of the first rectangle.";
-const MSG_PROMPT_RECT_B: &str = "Please input parameters of the second rectanlge.";
+const MSG_PROMPT_RECT_B: &str = "Please input parameters of the second rectangle.";
 const MSG_PROMPT_SIDE_A: &str = "Side a in mm: ";
 const MSG_PROMPT_SIDE_B: &str = "Side b in mm: ";
 

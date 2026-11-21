@@ -105,7 +105,7 @@ fn main() {
         let vol_b = box_b_side_a * box_b_side_b * box_b_side_c;
         println!(
             MSG_FITS_IN!(),
-            box_a_side_a, box_a_side_b, box_a_side_c, box_b_side_a, box_b_side_b, box_b_side_c
+            box_b_side_a, box_b_side_b, box_b_side_c, box_a_side_a, box_a_side_b, box_a_side_c
         );
         println!(MSG_AIR_REMAINS!(), vol_a - vol_b);
     } else {

@@ -6,7 +6,7 @@ const MSG_ERR_FLUSH_FAILED: &str = "Error: Flushing failed!";
 
 const MSG_PROMPT_NUMBER_PEOPLE: &str = "Please enter the number of persons traveling: ";
 const MSG_TO_FEW_PEOPLE: &str = "You cannot travel with no people.";
-const MSG_TO_MANY_PEOPLE: &str = "We cannot server over 100 people.";
+const MSG_TO_MANY_PEOPLE: &str = "We cannot serve over 100 people.";
 
 macro_rules! MSG_UP_TO_FIVE {
     () => {

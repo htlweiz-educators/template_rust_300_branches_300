@@ -5,11 +5,11 @@ const MSG_ERR_PARSING_FAILED: &str = "Error: Parsing failed!";
 const MSG_ERR_FLUSH_FAILED: &str = "Error: Flushing failed!";
 
 const MSG_PROMPT_FOR_YEAR: &str = "Please enter your year of birth: ";
-const MSG_PROMPT_ALPHA: &str = "Gratulation, you are an Alpha.";
-const MSG_PROMPT_MILLENIAL: &str = "Gratulation, you are a Millenial.";
-const MSG_PROMPT_Z: &str = "Gratulation, you are a Gen-Z.";
-const MSG_PROMPT_X: &str = "Gratulation, you are a Gen-X.";
-const MSG_PROMPT_BOOMER: &str = "Gratulation, you are a Boomer.";
+const MSG_PROMPT_ALPHA: &str = "Congratulations, you are an Alpha.";
+const MSG_PROMPT_MILLENIAL: &str = "Congratulations, you are a Millenial.";
+const MSG_PROMPT_Z: &str = "Congratulations, you are a Gen-Z.";
+const MSG_PROMPT_X: &str = "Congratulations, you are a Gen-X.";
+const MSG_PROMPT_BOOMER: &str = "Congratulations, you are a Boomer.";
 const MSG_PROMPT_NO_GEN: &str = "I have no generation for you!";
 
 fn main() {
