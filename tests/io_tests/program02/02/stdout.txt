@@ -1,0 +1,2 @@
+Please enter the side of a cube shaped box in mm: Please enter the radius of a sphere in mm: The sphere with an radius of 40 mm does fit in a cube shaped box with length of 100 mm.
+In the box 731917.419 mm³ of air remain.

@@ -1,0 +1,1 @@
+Please enter the number of persons traveling: The journey with 20 people costs you 9.50 EUR each. In total 190.00 EUR.

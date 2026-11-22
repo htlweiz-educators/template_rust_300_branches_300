@@ -1,0 +1,3 @@
+Please input parameters of the first rectangle.
+Side a in mm: Side b in mm: Please input parameters of the second rectangle.
+Side a in mm: Side b in mm: The rectangle 101 mm x 49 mm doesn't fit in the rectangle 100 mm x 50 mm.

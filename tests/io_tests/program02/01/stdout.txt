@@ -1,0 +1,1 @@
+Please enter the side of a cube shaped box in mm: Please enter the radius of a sphere in mm: The sphere with an radius of 50 mm does not fit in a cube shaped box with length of 100 mm.

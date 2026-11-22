@@ -1,0 +1,2 @@
+Please enter side a of a box in mm: Please enter side a of b box in mm: Please enter side a of c box in mm: Please enter the radius of a sphere in mm: The sphere with an radius of 20 mm does fit in a box of 100x100x100 mm.
+In the box 966489.677 mm³ of air remain.

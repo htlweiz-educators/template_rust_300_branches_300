@@ -1,0 +1,1 @@
+Please enter side a of a box in mm: Please enter side a of b box in mm: Please enter side a of c box in mm: Please enter the radius of a sphere in mm: The sphere with an radius of 50 mm does not fit in box of 100x100x100 mm.

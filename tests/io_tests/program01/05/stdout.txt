@@ -1,0 +1,4 @@
+Please input parameters of the first rectangle.
+Side a in mm: Side b in mm: Please input parameters of the second rectangle.
+Side a in mm: Side b in mm: The rectangle 40 mm x 60 mm fits in the rectangle 100 mm x 50 mm.
+The size differs by 3400 mm².

@@ -1,0 +1,1 @@
+Please enter the number of persons traveling: The journey with 40 people costs you 6.50 EUR each. Plus a 5.00 EUR per bus for 2 busses. In total 270.00 EUR.

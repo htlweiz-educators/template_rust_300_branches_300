@@ -1,0 +1,3 @@
+Please input parameters of the first box.
+a in mm: b in mm: c in mm: Please input parameters of the second box.
+a in mm: b in mm: c in mm: The box of 100x100x100 mm does not fit in the box of 100x100x100 mm.

@@ -1,0 +1,1 @@
+Please enter the number of persons traveling: The journey with 5 people costs you 12.50 EUR each. In total 62.50 EUR.

@@ -1,0 +1,4 @@
+Please input parameters of the first box.
+a in mm: b in mm: c in mm: Please input parameters of the second box.
+a in mm: b in mm: c in mm: The box of 50x50x50 mm does fit in the box of 100x100x100 mm.
+In the box 875000 mm³ of air remains.

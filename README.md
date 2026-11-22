@@ -94,12 +94,23 @@ The box of 100x100x100 mm does fit in the box of 50x50x50 mm.
 In the box 875000.000 mm³ of air remains.
 ```
 
-### 6. Review: Generation Identification (`program05`)
-Re-implement the Generation Identification logic from Exercise 1.
+### 6. Area Calculator (`program05`)
+Implement a program that calculates the area of different geometric shapes based on user selection.
 
 **How to reproduce:**
 ```bash
-echo "1990" | cargo run --bin program05
+echo -e "1\n50" | cargo run --bin program05
+```
+
+**Sample Output:**
+```text
+Choose a shape to calculate the area:
+1) Circle
+2) Rectangle
+3) Triangle
+Selection: 1
+Enter the radius in mm: 50
+The area of the circle is 7853.982 mm².
 ```
 
 **Sample Output:**
