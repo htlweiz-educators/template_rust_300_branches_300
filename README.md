@@ -31,7 +31,6 @@ echo -e "100\n50\n40\n30" | cargo run --bin program01
 Please input parameters of the first rectangle.
 Side a in mm: 100
 Side b in mm: 50
-Please input parameters of the second rectanlge.
 Side a in mm: 40
 Side b in mm: 30
 The rectangle 40 mm x 30 mm fits in the rectangle 100 mm x 50 mm.
@@ -111,12 +110,6 @@ Choose a shape to calculate the area:
 Selection: 1
 Enter the radius in mm: 50
 The area of the circle is 7853.982 mm².
-```
-
-**Sample Output:**
-```text
-Please enter your year of birth: 1990
-Congratulations, you are a Millenial.
 ```
 
 ### 7. Travel Cost Calculator (`program06`)
