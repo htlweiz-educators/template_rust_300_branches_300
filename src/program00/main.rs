@@ -27,8 +27,8 @@ fn main() {
     match year_of_birth {
         1946..=1964 => println!("{MSG_PROMPT_BOOMER}"),
         1965..=1980 => println!("{MSG_PROMPT_X}"),
-        1981..=1995 => println!("{MSG_PROMPT_MILLENIAL}"),
-        1996..=2012 => println!("{MSG_PROMPT_Z}"),
+        1981..=1996 => println!("{MSG_PROMPT_MILLENIAL}"),
+        1997..=2012 => println!("{MSG_PROMPT_Z}"),
         2013..2027 => println!("{MSG_PROMPT_ALPHA}"),
         _ => println!("{MSG_PROMPT_NO_GEN}"),
     }
