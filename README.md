@@ -34,7 +34,7 @@ Side b in mm: 50
 Side a in mm: 40
 Side b in mm: 30
 The rectangle 40 mm x 30 mm fits in the rectangle 100 mm x 50 mm.
-The size differs by 3800 mm².
+The size differs by 3400 mm².
 ```
 
 ### 3. Sphere in a Cube (`program02`)
@@ -50,7 +50,7 @@ echo -e "100\n40" | cargo run --bin program02
 Please enter the side of a cube shaped box in mm: 100
 Please enter the radius of a sphere in mm: 40
 The sphere with an radius of 40 mm does fit in a cube shaped box with length of 100 mm.
-In the box 731917.427 mm³ of air remain.
+In the box 731917.419 mm³ of air remain.
 ```
 
 ### 4. Sphere in a Box (`program03`)
@@ -68,7 +68,7 @@ Please enter side a of b box in mm: 100
 Please enter side a of c box in mm: 50
 Please enter the radius of a sphere in mm: 20
 The sphere with an radius of 20 mm does fit in a box of 100x100x50 mm.
-In the box 466489.678 mm³ of air remain.
+In the box 466489.677 mm³ of air remain.
 ```
 
 ### 5. Box in a Box (`program04`)
@@ -89,8 +89,8 @@ Please input parameters of the second box.
 a in mm: 50
 b in mm: 50
 c in mm: 50
-The box of 100x100x100 mm does fit in the box of 50x50x50 mm.
-In the box 875000.000 mm³ of air remains.
+The box of 50x50x50 mm does fit in the box of 100x100x100 mm.
+In the box 875000 mm³ of air remains.
 ```
 
 ### 6. Area Calculator (`program05`)
@@ -109,7 +109,7 @@ Choose a shape to calculate the area:
 3) Triangle
 Selection: 1
 Enter the radius in mm: 50
-The area of the circle is 7853.982 mm².
+The area of the circle is 7853.981 mm².
 ```
 
 ### 7. Travel Cost Calculator (`program06`)
