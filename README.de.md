@@ -115,6 +115,10 @@ The area of the circle is 7853.981 mm².
 ### 7. Reisekostenrechner (`program06`)
 Implementieren Sie ein Preissystem für eine Reise basierend auf der Anzahl der Personen.
 
+* Bis zu 5 Personen wird ein Preis von 12.5 EUR berechnet.
+* Bis zu 20 Personen wird ein Preis von 9.5 EUR berechnet.
+* Bis zu 100 Personen wird ein Preis von 6.5 EUR berechnet. Und pro 20 Personen eine Pauschale für den Bus von 5.0 EUR.
+
 **So reproduzieren Sie es:**
 ```bash
 echo "25" | cargo run --bin program06

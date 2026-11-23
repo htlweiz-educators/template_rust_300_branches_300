@@ -115,7 +115,10 @@ The area of the circle is 7853.981 mm².
 ### 7. Travel Cost Calculator (`program06`)
 Implement a pricing system for a travel journey based on the number of people.
 
-**How to reproduce:**
+* For up to 5 people, the price is 12.5 EUR.
+* For up to 20 people, the price is 9.5 EUR.
+* For up to 100 people, the price is 6.5 EUR, plus a flat fee of 5.0 EUR for the bus for every 20 people.**How to reproduce:**
+
 ```bash
 echo "25" | cargo run --bin program06
 ```
