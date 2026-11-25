@@ -66,7 +66,7 @@ fn main() {
         || (rect_b_side_b < rect_a_side_a && rect_b_side_a < rect_a_side_b)
     {
         let area_a = rect_a_side_a * rect_a_side_b;
-        let area_b = rect_b_side_a * rect_b_side_a;
+        let area_b = rect_b_side_a * rect_b_side_b;
         println!(
             MSG_FITS_IN!(),
             rect_b_side_a, rect_b_side_b, rect_a_side_a, rect_a_side_b
